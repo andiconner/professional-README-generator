@@ -1,0 +1,15 @@
+{
+  "name": "README-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andi Conner",
+  "license": "ISC",
+  "url": "https://github.com/andiconner/README-generator.git",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
